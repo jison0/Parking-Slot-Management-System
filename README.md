@@ -10,15 +10,15 @@
 This project is a **Smart Parking Management System** written in Java.
 It runs entirely in the **terminal/console** and provides a full set of parking-lot management features:
 
-✔ Real-time parking and unparking
-✔ Automatic fee computation
-✔ Slot allocation by vehicle type
-✔ Vacancy & occupancy statistics
-✔ ASCII slot map view
-✔ History logs & peak-hour analytics
-✔ CSV export
-✔ Active vehicle search
-✔ Colorized user interface
+* Real-time parking and unparking
+* Automatic fee computation
+* Slot allocation by vehicle type
+* Vacancy & occupancy statistics
+* ASCII slot map view
+* History logs & peak-hour analytics
+* CSV export
+* Active vehicle search
+* Colorized user interface
 
 The system supports two main vehicle types:
 
@@ -199,6 +199,6 @@ Clear screen and pause functions create a clean, modern CLI experience.
 ---
 Member:
 
-Laila, Brett Ryan
-Podra, Mark Jayson
-Soria, John Anielov
+* Laila, Brett Ryan
+* Podra, Mark Jayson
+* Soria, John Anielov
